@@ -1,0 +1,11 @@
+{
+    "database": {
+        "vendor" : "msft",
+        "server": "msdbs002",
+        "port": "1433",
+        "sid": "MSSQLSERVER",
+        "schema": "master",
+        "user": "sa",
+        "pass": "U3FsU2VydmVyUGFzc3dvcmQK"
+    }
+}
