@@ -66,6 +66,6 @@ def setup_gcp_structure(domain, billing_id):
 if __name__ == "__main__":
     # Handle Inputs (CLI args or prompts)
     my_domain = sys.argv[1] if len(sys.argv) > 1 else input("Enter domain name: ")
-    my_bill_acct = sys.argv[2] if len(sys.argv) > 2 else input("Enter billing account (e.g. 012AD9-...): ")
+    my_bill_acct = sys.argv[2] if len(sys.argv) > 2 else input("Enter billing account (e.g. 123ABC-CBA321-123ABC): ")
 
     setup_gcp_structure(my_domain, my_bill_acct)
