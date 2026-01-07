@@ -1,0 +1,12 @@
+{
+    "gsettings": {
+        "projid" : "demo1-465817",
+        "roleid": "PyRoleID",
+        "title": "PyRoleExample",
+        "description": "This is created by python",
+        "permissions": [
+          "iam.roles.get",
+          "iam.roles.list"
+      ]  
+    }
+}
