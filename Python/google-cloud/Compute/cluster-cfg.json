@@ -1,0 +1,7 @@
+{
+    "gsettings": {
+        "projid" : "demo1-465817",
+        "zone" : "us-central1-a",
+        "clustername" : "my-gke-cluster"
+    }
+}
